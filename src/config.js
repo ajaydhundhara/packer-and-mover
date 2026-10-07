@@ -1,4 +1,4 @@
-// Replace these sample details with verified business information before public launch.
+// Business details supplied by the owner; edit here when they change.
 export const business = {
   name: 'ShiftFleet',
   phone: '+918239203672',

@@ -1,0 +1,84 @@
+[
+  {
+    "asset": "public/images/projects/protected-furniture.jpg",
+    "source": {
+      "file": "attached-03.jpeg",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.55.04.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/furniture-packing-detail.jpg",
+    "source": {
+      "file": "archive-1-01.jpeg",
+      "source_archive": "WhatsApp Unknown 2026-10-07 at 17.56.48.zip",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.51.40.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/wrapped-furniture-stack.jpg",
+    "source": {
+      "file": "archive-1-02.jpeg",
+      "source_archive": "WhatsApp Unknown 2026-10-07 at 17.56.48.zip",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.51.41.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/wrapped-commercial-equipment.jpg",
+    "source": {
+      "file": "archive-1-04.jpeg",
+      "source_archive": "WhatsApp Unknown 2026-10-07 at 17.56.48.zip",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.51.42.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/pallet-packed-goods.jpg",
+    "source": {
+      "file": "archive-2-05.jpeg",
+      "source_archive": "WhatsApp Unknown 2026-10-07 at 17.56.51.zip",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.51.40.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/cartons-and-appliances.jpg",
+    "source": {
+      "file": "attached-02.jpeg",
+      "source_file": "WhatsApp Image 2026-10-07 at 17.55.04 (1).jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/loaded-moving-truck.jpg",
+    "source": {
+      "source_file": "WhatsApp Image 2026-10-07 at 18.03.49.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/car-in-transporter.jpg",
+    "source": {
+      "source_file": "WhatsApp Image 2026-10-07 at 18.03.54.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/household-goods-loading.jpg",
+    "source": {
+      "source_file": "WhatsApp Image 2026-10-07 at 18.05.57 (1).jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/packed-truck-interior.jpg",
+    "source": {
+      "source_file": "WhatsApp Image 2026-10-07 at 18.05.57.jpeg"
+    }
+  },
+  {
+    "asset": "public/images/projects/road-transport-vehicle.jpg",
+    "source": {
+      "source_file": "WhatsApp Image 2026-10-07 at 18.05.58.jpeg"
+    }
+  },
+  {
+    "asset": "public/videos/moving-project.mp4",
+    "source": {
+      "source_file": "WhatsApp Video 2026-10-07 at 18.03.53.mp4"
+    }
+  }
+]
