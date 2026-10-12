@@ -1,6 +1,10 @@
-# ShiftFleet
+# Shiftiigo
 
-A responsive static website built with React, Vite, and Lucide icons. Inspired by the service and enquiry structure of ShiftEro, with an original ShiftFleet visual design.
+A responsive static website built with React, Vite, and Lucide icons. Inspired by the service and enquiry structure of ShiftEro, with an original Shiftiigo visual design.
+
+The Shiftiigo header, footer, and favicon use `public/images/brand/shiftiigo-mascot.png`, adapted from the owner's supplied logo with the built-in imagegen tool. The wordmark remains live text for legibility. The website's existing blue, navy, and cream theme is preserved.
+
+Logo edit prompt: preserve the supplied mover mascot, face, pose, cap, box, S insignia, and swept circular emblem; remove the surrounding wordmark and slogans; replace orange and green brand accents with royal blue (#164af3), navy (#101e36), and ivory (#f6f5f0); retain natural skin and cardboard colours; export a compact square emblem on a genuinely transparent background.
 
 ## Run locally
 
@@ -55,7 +59,7 @@ The photo with a readable residents’ directory was excluded. Other close dupli
 | Priority | Subject | Website use | Suggested shots |
 | --- | --- | --- | --- |
 | Highest | Team actively packing or carrying boxes beside your vehicle | Main hero | 2 landscape and 1 portrait |
-| Medium | A clean, well-lit exterior of your vehicle with ShiftFleet branding, if available | Logistics card and gallery; loaded-interior photos are now included | 2 landscape exterior views |
+| Medium | A clean, well-lit exterior of your vehicle with Shiftiigo branding, if available | Logistics card and gallery; loaded-interior photos are now included | 2 landscape exterior views |
 | High | Packers wrapping furniture and protecting a fragile item | Packing section | 3 close-ups and 1 wider scene |
 | High | Office desks, workstations, or computers being packed or loaded | Replace office stock photo | 2 landscape |
 | Medium | Before and after packing of the same room or furniture | Project gallery | 2 matched pairs |

@@ -1,6 +1,6 @@
 // Business details supplied by the owner; edit here when they change.
 export const business = {
-  name: 'ShiftFleet',
+  name: 'Shiftiigo',
   phone: '+918239203672',
   email: 'ajay.11704009@gmail.com',
   baseCity: 'Ahmedabad',
