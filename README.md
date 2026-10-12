@@ -39,8 +39,8 @@ When you are ready to host it, upload the contents of the generated `dist/` dire
 
 Edit `src/config.js` to change phone, email, base city, and destination examples. Current user-provided details:
 
-- Phone / WhatsApp: +91 82392 03672
-- Email: ajay.11704009@gmail.com
+- Phone / WhatsApp: +91 92747 23856
+- Email: shiftiigo@gmail.com
 - Pickup: Ahmedabad and nearby areas
 - Delivery: across India
 
